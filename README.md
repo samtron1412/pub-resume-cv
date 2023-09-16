@@ -1,2 +1,1 @@
-# resume
-My resume and cv
+# My resume and CV
